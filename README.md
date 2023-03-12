@@ -3,7 +3,7 @@
 *This is the first report of stats 220 which is about markdown and R, and I want to show you what I have learnt in STATS 220.*
 
 ## website
-If you want to see more information about markdown, you can see this [website](https://www.markdownguide.org/) to learn more.
+If you want to see my published website directly, you can see this [website]( https://tianyno1.github.io/stats220/).
 
 ## Introduction of myself
 *My name is Yuan Tian, and you can call me Tiany. Stats 220 is a little bit hard for me to understanding, because I have never leart any CS and code before. But this is really interesting and I will try my best to make it.*
